@@ -3,6 +3,7 @@ package day1;
 import java.util.*;
 
 public class Sumdivisor {
+//	https://www.acmicpc.net/problem/9506
 //	1. 입력받기(유효성 검사)
 //	2. 약수 구하기(리스트에 저장)
 //	3. 약수의 합 구하기(입력받은 수와 비교)
